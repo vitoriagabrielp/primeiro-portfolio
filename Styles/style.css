@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); /* link do google fonts com todas as fontes acumuladas*/
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); 
 :root{
     --cor-primaria: #603F26;
     --cor-secundaria: #FFEAC5;
@@ -131,3 +131,4 @@ body {
 }
 
 }
+
